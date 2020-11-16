@@ -1,2 +1,2 @@
-this is a super simple spammer wrritten using pyautogui library
+this is a super simple spammer written using pyautogui library
  
